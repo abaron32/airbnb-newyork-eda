@@ -1,1 +1,2 @@
-# Template for Machine Learning projects
+# Exploratory Data Analysis: Airbnb New York dataset
+
